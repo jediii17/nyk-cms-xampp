@@ -9,27 +9,9 @@
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" href="../css/style.css">
     <link href="https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&display=swap" rel="stylesheet">
 </head>
-
-<!-- Styles -->
-<style>
-    .navDashboard {
-        background: darkblue;
-    }
-    .headerContent {
-        box-shadow: 1px 5px 5px 1px rgba(0, 0, 0, 0.29);
-        -webkit-box-shadow: 1px 5px 5px 1px rgba(0, 0, 0, 0.29);
-        -moz-box-shadow: 1px 5px 5px 1px rgba(0, 0, 0, 0.29);
-    }
-    .card-body:hover {
-        transition: 0.4s;
-        background: whitesmoke;
-    }
-    * {
-        font-family: "Figtree", sans-serif;
-    }
-</style>
 
 <body>
     <!-- Header Component -->
